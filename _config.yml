@@ -1,7 +1,7 @@
 # Site settings
 title: Walisson Aguirra # site title
 description: >- # site description
-🥇 Programador Backend <a href="https://github.com/php" target="_blank">@php</a> 👨🏽‍💻 Criação de sistemas com <a href="https://github.com/laravel" target="_blank">@laravel</a>  
+🥇 Programador Backend <a href="https://github.com/php" target="_blank">@php</a> Criação de sistemas com <a href="https://github.com/laravel" target="_blank">@laravel</a>  
 lang: pt-BR # default lang
 timezone: America/Sao_Paulo # set your timezone
 image: # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Walisson Aguirra # author name
   bio: >- # tell to the world
-     🥇 Programador Backend <a href="https://github.com/php" target="_blank">@php</a> 👨🏽<200d>💻 Criação de sistemas com <a href="https://github.com/laravel" target="_blank">@laravel</a>
+     🥇 Programador Backend <a href="https://github.com/php" target="_blank">@php</a> 💻 Criação de sistemas com <a href="https://github.com/laravel" target="_blank">@laravel</a>
   username: walissonaguirra # general username
   github: walissonaguirra # github username
   twitter: walissonaguirra # twitter username
